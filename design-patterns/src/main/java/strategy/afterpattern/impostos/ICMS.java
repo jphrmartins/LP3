@@ -1,6 +1,6 @@
-package br.org.fundatec.strategy.afterpattern.impostos;
+package strategy.afterpattern.impostos;
 
-import br.org.fundatec.strategy.afterpattern.Imposto;
+import strategy.afterpattern.Imposto;
 
 public class ICMS implements Imposto {
     @Override

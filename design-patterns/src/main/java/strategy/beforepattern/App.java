@@ -1,4 +1,4 @@
-package br.org.fundatec.strategy.beforepattern;
+package strategy.beforepattern;
 
 public class App {
 

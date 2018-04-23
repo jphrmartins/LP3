@@ -1,4 +1,4 @@
-package br.org.fundatec.strategy.afterpattern;
+package strategy.afterpattern;
 
 public interface Imposto {
     String getName();

@@ -1,7 +1,6 @@
-package br.org.fundatec.strategy.afterpattern;
+package strategy.afterpattern;
 
-import br.org.fundatec.strategy.afterpattern.impostos.IPTU;
-
+import strategy.afterpattern.impostos.IPTU;
 
 public class AppAfertPattern {
     public static void main(String[] args) {

@@ -1,15 +1,15 @@
-package br.org.fundatec.strategy.afterpattern.impostos;
+package strategy.afterpattern.impostos;
 
-import br.org.fundatec.strategy.afterpattern.Imposto;
+import strategy.afterpattern.Imposto;
 
-public class IPTU implements Imposto{
-    @Override
-    public String getName() {
-        return "IPTU";
-    }
+public class IPTU implements Imposto {
+	@Override
+	public String getName() {
+		return "IPTU";
+	}
 
-    @Override
-    public double calcular(double valor) {
-        return valor * 0.5;
-    }
+	@Override
+	public double calcular(double valor) {
+		return valor * 0.5;
+	}
 }

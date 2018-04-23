@@ -1,4 +1,4 @@
-package br.org.fundatec.strategy.afterpattern;
+package strategy.afterpattern;
 
 public class CalculadoraImpostoAfterPattern {
     public double verificaValorImposto(double valor, Imposto imposto) {
